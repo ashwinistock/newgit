@@ -21,8 +21,10 @@ public class Activate {
 	}
 	public void clickActivate() {
 		activate.click();
-	
-	
+	}
+	public void addgit() {
+		System.out.println("git method");
+	}
 	//String mainpage = driver.getWindowHandle();
 	//System.out.println(mainpage);
 //
@@ -38,7 +40,7 @@ public class Activate {
 			
 //		}
 //	}
-	}
+	
 	
 	
 	
